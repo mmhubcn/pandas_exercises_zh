@@ -1,18 +1,19 @@
 # Pandas 训练
 
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
+Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.  
 厌倦了大量的教程，但没有找到简单的方法来练习，我决定创建一个repo以练习的方式去实战pandas。
 
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
+Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.  
 不要误会我的意思，教程是很好的资源，但学习就是要去动手。因此，除非去做实战，否则你学不到什么东西。
 
-There will be three different types of files: 
-
+There will be three different types of files:   
 这里将会有三种不同类型的文件：
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 练习说明  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Solutions without code  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. 没有代码的解决方法 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Solutions with code and comments  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. 包含代码和注释的解决方案
 
 My suggestion is that you learn a topic in a tutorial or video and then do exercises.
